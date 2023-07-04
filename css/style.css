@@ -1,0 +1,19 @@
+.div-centrado{
+    width: 500px;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+.productos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
